@@ -1,0 +1,1 @@
+Hello, Jonogon this is the working directory of git repogitory!
