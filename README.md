@@ -1,2 +1,3 @@
-Hello, Jonogon this is the working directory of git repogitory!
-Choose what you are like and work hard for that.
+Hello, this is the working directory of the git repository!
+Now you can see what you want.
+Author - MdAbuSama
